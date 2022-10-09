@@ -1,7 +1,6 @@
-### 📦 **FinkuApp**
+### 📦 **Finku App**
 
-Slicing FinkuApp 
-Made With Flutter
+This is a Clone FinkuApp Inspired by This Real App It Self, Finku is a Money Management Tracker Develop by Fintech
 
 ### 🎖  **Installing**
 ```
